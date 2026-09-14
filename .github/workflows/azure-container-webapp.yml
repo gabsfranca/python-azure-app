@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: p
+  AZURE_WEBAPP_NAME: pito
   RESOURCE_GROUP: rg-python-aula
   ACR_NAME: p
   ACR_LOGIN_SERVER: p
