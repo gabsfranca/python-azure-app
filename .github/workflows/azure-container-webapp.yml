@@ -9,8 +9,8 @@ on:
 env:
   AZURE_WEBAPP_NAME: p
   RESOURCE_GROUP: rg-python-aula
-  ACR_NAME: acraula123
-  ACR_LOGIN_SERVER: acraula123.azurecr.io
+  ACR_NAME: p
+  ACR_LOGIN_SERVER: p
   IMAGE_NAME: minha-app
   IMAGE_TAG: latest
 
