@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: webapp0209
+  AZURE_WEBAPP_NAME: p
   RESOURCE_GROUP: rg-python-aula
   ACR_NAME: acraula123
   ACR_LOGIN_SERVER: acraula123.azurecr.io
